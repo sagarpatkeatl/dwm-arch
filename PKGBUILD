@@ -13,10 +13,10 @@ license=('MIT')
 options=(zipman)
 depends=('libx11' 'libxinerama' 'libxft' 'freetype2' 'st' 'dmenu')
 install=dwm.install
-source=(http://dl.suckless.org/dwm/dwm-$pkgver.tar.gz
+source=(dwm-$pkgver.tar.gz
 	config.h
 	dwm.desktop)
-sha256sums=('1d53831f92fd9da16b99d41ae6e7a2ad65c6865eaec65bdc98cc6c4c4481d653'
+sha256sums=('15a8165327b5e061f4dcbcbe7e7a275e1fcc70c1d084ee8c6314643aad186561'
             'f26e00fef844c84c4e4d56070fe0ae1acb17e4bcec177b1b1c6db73ba7aebf49'
             'bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81')
 
