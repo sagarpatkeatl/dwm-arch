@@ -1,0 +1,3 @@
+#!/bin/sh
+feh --bg-scale /home/sagar/Pictures/wallpapers/arch/1056734-popular-arch-linux-wallpaper-1920x1080-photo.jpg
+dwm
