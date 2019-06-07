@@ -14,12 +14,12 @@ pkgbase = dwm
 	depends = st
 	depends = dmenu
 	options = zipman
-	source = http://dl.suckless.org/dwm/dwm-6.2.tar.gz
+	source = dwm-6.2.tar.gz
 	source = config.h
 	source = dwm.desktop
-	sha256sums = 97902e2e007aaeaa3c6e3bed1f81785b817b7413947f1db1d3b62b8da4cd110e
-	sha256sums = ce156c4ff6be6f664f5c1eb41e8ae8228c15d0282410be3ecdd58598bb8867d2
-	sha256sums = bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81
+#	sha256sums = 1d53831f92fd9da16b99d41ae6e7a2ad65c6865eaec65bdc98cc6c4c4481d653
+#	sha256sums = f26e00fef844c84c4e4d56070fe0ae1acb17e4bcec177b1b1c6db73ba7aebf49
+#	sha256sums = bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81
 
 pkgname = dwm
 
